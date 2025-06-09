@@ -1,7 +1,5 @@
 package ex_01_Java_Basic;
 
-import java.sql.SQLOutput;
-
 public class Lab002_Myself {
     public static  void main (String[]args){
         System.out.println(" my name is Nikita Gupta");
