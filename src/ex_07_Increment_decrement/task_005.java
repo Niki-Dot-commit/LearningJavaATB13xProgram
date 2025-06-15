@@ -10,3 +10,5 @@ public class task_005 {
         System.out.println("x = " + x + ", y = " + y);
     }
 }
+
+
