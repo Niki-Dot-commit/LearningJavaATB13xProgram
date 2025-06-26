@@ -7,9 +7,9 @@ public class examq2 {
         String string3 ="Hello";
         //compare strings in Java, including == operator,
         // equals(), equalsIgnoreCase(), and compareTo() methods.
-        System.out.println(string1.equals("Hello"));
+        System.out.println(string1.equals("hello"));
         System.out.println(string2.equalsIgnoreCase("hello"));
-        System.out.println(string1.compareTo("Hello"));
+        System.out.println(string1.compareTo("hello"));
     }
 }
 
